@@ -1,17 +1,13 @@
-# Chapter 1: Decision Trees
+## Chapter 1: Decision Trees
+Includes notebook `Hw1.ipynb` using datasets: MADELON, hill-valley, Gisette, satimage, wilt.
 
-## Overview
+---
+# Data Folder
 
-This chapter introduces decision tree models, using various datasets for classification and benchmarking.
+## Datasets
 
-## Notebook
-
-- `Hw1.ipynb`: Main assignment for Decision Trees, includes data loading, analysis, and modeling.
-
-## Datasets Used
-
-- MADELON
-- hill-valley
-- Gisette
-- satimage
-- wilt
+- **MADELON**
+- **hill-valley**
+- **Gisette**
+- **satimage**
+- **wilt**
